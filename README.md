@@ -39,7 +39,7 @@ A simple and intuitive web application to manage a library's book inventory. Thi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/bPavan16/library-management-system.git
    cd library-management-system
    ```
 
