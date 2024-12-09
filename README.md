@@ -39,8 +39,8 @@ A simple and intuitive web application to manage a library's book inventory. Thi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bPavan16/library-management-system.git
-   cd library-management-system
+   git clone https://github.com/bPavan16/books-management-app.git
+   cd books-management-app
    ```
 
 2. Install the required dependencies:
